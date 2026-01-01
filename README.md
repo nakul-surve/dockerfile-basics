@@ -17,3 +17,9 @@ Starts Nginx in the foreground when the container runs.
 - Understand image building steps
 - Learn how services run inside containers
 - Focus on clarity over complexity
+
+## DevOps Context
+- Git stores Dockerfile
+- Docker builds image
+- Linux runs container
+- Cloud hosts container
