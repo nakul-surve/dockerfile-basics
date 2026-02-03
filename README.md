@@ -22,4 +22,4 @@ Starts Nginx in the foreground when the container runs.
 - Git stores Dockerfile
 - Docker builds image
 - Linux runs container
-- Cloud hosts container
+
