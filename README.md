@@ -21,5 +21,5 @@ Starts Nginx in the foreground when the container runs.
 ## DevOps Context
 - Git stores Dockerfile
 - Docker builds image
-- Linux runs container
+
 
